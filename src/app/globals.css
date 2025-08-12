@@ -1,0 +1,24 @@
+@import "tailwindcss";
+/* Custom Scrollbar Styling */
+/* This works in Webkit-based browsers like Chrome, Safari, and Edge */
+
+/* The overall scrollbar container */
+::-webkit-scrollbar {
+  width: 8px; /* Sets a slimmer width */
+}
+
+/* The track (the background of the scrollbar) */
+::-webkit-scrollbar-track {
+  background: #0f172a; /* Corresponds to slate-900 */
+}
+
+/* The draggable scrolling handle */
+::-webkit-scrollbar-thumb {
+  background: #475569; /* Corresponds to slate-600 */
+  border-radius: 10px;
+}
+
+/* The handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b; /* Corresponds to slate-500 */
+}
