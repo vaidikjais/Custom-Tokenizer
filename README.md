@@ -7,7 +7,7 @@ An interactive, web-based tool built with Next.js and Tailwind CSS to demonstrat
 
 This application provides a hands-on environment to see how raw text is parsed, converted into a sequence of numerical IDs, and visualized for clear understanding.
 
-
+🚀 [View Live Demo](https://custom-tokenizer-red.vercel.app/) 
 
 ## Project Overview
 
